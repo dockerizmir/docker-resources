@@ -1,0 +1,73 @@
+Docker Kaynaklar
+
+Docker platformuna başlangıç yapmak ve / veya kendinizi bu alanda geliştirmek adına derlenmiş yerel kaynak listesi:
+
+## Blog Yazıları
+
+. https://twitter.com/Alican_akkus[Alican Akkuş]
+.. https://medium.com/@caysever/docker-splunk-logging-driver-c70dd78ad56a[Docker Splunk logging driver]
+.. https://medium.com/@caysever/docker-compose-a75171b9da48[Docker Compose]
+.. https://medium.com/@caysever/docker-swarm-mode-introduction-33fe8da9b4b6[Docker Swarm Mode Introduction]
+.. https://alicanakkus.github.io/blog/docker/springboot-for-docker[Spring Boot for Docker]
+.. https://alicanakkus.github.io/blog/docker/docker-containers[Docker containers]
+.. https://alicanakkus.github.io/blog/docker/docker-images[Docker Images]
+.. https://alicanakkus.github.io/blog/docker/docker-introduction[Docker Introduction]
+. https://twitter.com/tunix[Alper Kanat]
+.. https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a[Docker Serisi #1]
+.. https://medium.com/monitisemea/docker-serisi-2-docker-engine-bolum-1-3e39a0912607[Docker Serisi #2 — Docker Engine Bölüm 1]
+.. https://medium.com/monitisemea/docker-serisi-3-docker-engine-bolum-2-a7c6c5f50851[Docker Serisi #3 — Docker Engine Bölüm 2]
+.. https://medium.com/monitisemea/docker-serisi-4-docker-compose-cfc51b6b455[Docker Serisi #4 — Docker Compose]
+. https://twitter.com/buurkeey[Burak Koyuncu]
+.. https://blog.kloia.com/parallel-test-execution-in-cucumber-using-docker-85681901c03b[Parallel Test Execution in Cucumber using Docker]
+. https://twitter.com/derya_sezen[Derya Sezen]
+.. https://blog.kloia.com/productionda-docker-kim-kullan%C4%B1yor-ki-insider-3a6b18710527[Production’da Docker kim kullanıyor ki? Insider!]
+.. https://blog.kloia.com/dockercon17-recap-c5ceac727de9[DockerCon17 Recap]
+.. https://blog.kodcu.com/2016/04/docker-bizi-hangi-aliskanliklarimizi-degistirmeye-itiyor/[Docker, bizi hangi alışkanlıklarımızı değiştirmeye itiyor?]
+.. https://blog.kloia.com/docker-1-13-ile-gelen-yenilikler-339c8f99172a[Docker 1.13 ile gelen yenilikler]
+. https://twitter.com/elfcan[Elifcan Çakmak]
+.. https://medium.com/kodgemisi/yeni-baslayanlar-icin-docker-swarm-b633b18c0baf[Yeni Başlayanlar İçin Docker Swarm]
+. https://twitter.com/gokhansengun[Gökhan Şengül] 
+.. http://www.gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/[Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır?]
+.. http://www.gokhansengun.com/docker-yeni-image-hazirlama/[Docker Bölüm 2: Yeni bir Docker Image'ı Nasıl Hazırlanır?]
+.. http://www.gokhansengun.com/docker-compose-nasil-kullanilir/[Docker Bölüm 3: Docker Compose Hangi Amaçlarla ve Nasıl Kullanılır?]
+.. http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/[Docker İpuçları - Soru / Cevap - Bölüm 1]
+.. http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-2/[Docker İpuçları - Soru / Cevap - Bölüm 2]
+.. http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-3/[Docker İpuçları - Soru / Cevap - Bölüm 3]
+.. http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-4/[Docker İpuçları - Soru / Cevap - Bölüm 4]
+. https://twitter.com/ozlerhakan[Hakan Özler]
+.. https://kodcu.com/2017/06/moby-hmm-moby-nedir/[Moby? hmm Moby nedir?]
+.. https://kodcu.com/2017/04/docker-containerlarin-servis-olarak-yonetimi/[Docker Container’ların Servis Olarak Yönetimi]
+.. https://kodcu.com/2017/03/docker-login-davranisina-dikkat/[Docker login davranışına dikkat]
+.. https://kodcu.com/2017/01/yeni-docker-1-13-yonetim-komutlari/[Yeni Docker 1.13 Yönetim Komutları]
+.. https://kodcu.com/2016/11/ubuntu-ve-centos-ortamlarindan-docker-iletisimi/[Ubuntu ve CentOS ortamlarından Docker iletişimi]
+.. https://kodcu.com/2016/10/docker-for-mac-nedir/[Docker for Mac Nedir?]
+.. https://kodcu.com/2016/07/docker-dunyasina-uygulamali-genel-bakis/[Docker Dünyasına Uygulamalı Genel Bakış]
+. https://twitter.com/huseyinbabal[Hüseyin Babal]
+.. https://blog.kloia.com/ultimate-iot-with-docker-jenkins-and-raspberry-pi-installation-4d79b5d06ea0[Ultimate IoT with Docker, Jenkins, and Raspberry Pi — Installation
+]
+
+## Videolar
+
+. https://twitter.com/delirehberi[Emre Yılmaz]
+.. https://www.youtube.com/watch?v=DGVxpFeV16M[Docker nedir, nasıl, neden? | Birinci Bölüm]
+. https://twitter.com/farukpehlivanli[E. Faruk Pehlivanlı]
+.. https://www.youtube.com/watch?v=rbdxsdPUm-E[.Net on Docker]
+. https://twitter.com/gokhansengun[Gökhan Şengül] 
+.. https://www.youtube.com/watch?v=cNbCG6Nih3Q[Docker Swarm Mode ile Container Orkestrasyonu]
+.. https://www.youtube.com/watch?v=bJSqh7fFOUI[Uygulamalar ile Docker]
+.. https://www.youtube.com/watch?v=Wyr8_tsjKlE[Tüm Yönleriyle Docker]
+.. https://www.youtube.com/watch?v=ErBIAgwoqY8&t=2078s[Docker Eğitimi - Bölüm 1]
+.. https://www.youtube.com/watch?v=aI61tgbUVkA[Docker Eğitimi - Bölüm 2]
+.. https://www.youtube.com/watch?v=4tesBs721eQ[Kendi Kendini Ölçekleyen ve Yöneten Sistemler Geliştirmek]
+. https://twitter.com/ozlerhakan[Hakan Özler]
+.. https://www.youtube.com/watch?v=1Y5uK-RfrRo[Docker ile Uygulama Yönetimi]
+. https://twitter.com/atarikguney[Tarık Güney]
+.. https://www.youtube.com/watch?v=g_Q7TDsrwgo[Docker Öğreniyorum]
+. https://twitter.com/volkantufekci[Volkan Tüfekçi]
+.. https://www.youtube.com/watch?v=LBoHajhqUek[Docker Swarm ile Test Otomasyon Mimarisi Oluşturma]
+
+
+## Destek
+
+Docker kaynak listemizi güncellememizde yardımlarınızı bekliyoruz.
+
